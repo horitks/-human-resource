@@ -1,0 +1,7 @@
+{
+  "name": "human-resource",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
